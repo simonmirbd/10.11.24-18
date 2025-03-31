@@ -1,14 +1,12 @@
 
-#EXTM3U :
+#EXTM3U:
 #EXTINF:1,VF Граиндхаус
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/14158/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Playboy
+#EXTINF:1, Playboy
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/527/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Русская Ночь
-
+#EXTINF:1, Pусская Ночь
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/147/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Brazzers TV Europe Россия
-
+#EXTINF:1, Europe Россия
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/910/index.m3u8
 #EXTINF:1,Blue Hustler
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/1064/index.m3u8
