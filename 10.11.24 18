@@ -1,7 +1,7 @@
 #EXTM3U :
 #EXTINF:1,VF Grindhouse
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/14158/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Playboy
+#EXTINF:1,Playboy
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/527/index.m3u8
 #EXTINF:1,Russian Night
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/147/index.m3u8
