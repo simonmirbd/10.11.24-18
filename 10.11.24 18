@@ -1,50 +1,49 @@
-
-#EXTM3U:
-#EXTINF:1,VF Граиндхаус
+#EXTM3U :
+#EXTINF:1,VF Grindhouse
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/14158/index.m3u8
-#EXTINF:1, Playboy
+#EXTINF:0 tvg-rec=\"3\",Playboy
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/527/index.m3u8
-#EXTINF:1, Pусская Ночь
+#EXTINF:1,Russian Night
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/147/index.m3u8
-#EXTINF:1, Europe Россия
+#EXTINF:1,Brazzers TV Europe Россия
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/910/index.m3u8
 #EXTINF:1,Blue Hustler
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/1064/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Barely Legal TV
+#EXTINF:1,Barely Legal TV
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/871/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Redlight HD
+#EXTINF:1,Redlight HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/242/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Private TV
+#EXTINF:1,Private TV
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/243/index.m3u8
 #EXTINF:1,Hustler HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/244/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Dorcel TV HD
+#EXTINF:1,Dorcel TV HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/245/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Babes TV
+#EXTINF:1,Babes TV
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/2161/index.m3u8
-#EXTINF:0 tvg-rec=\"1\",Vivid Red HD
+#EXTINF:1,Vivid Red HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/2162/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Exxxotica HD
+#EXTINF:1,Exxxotica HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/2397/index.m3u8
 #EXTINF:1,Ню Арт HD (18+)
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/31716/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",XXL
+#EXTINF:1,XXL
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/5009/index.m3u8
 #EXTINF:1,Adult TV (18+)
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/31707/index.m3u8
 #EXTINF:1,PlayBoyz TV HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/31709/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Penthouse Passion HD
+#EXTINF:1,Penthouse Passion HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/5010/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Penthouse Gold HD
+#EXTINF:1,Penthouse Gold HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/5011/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Penthouse Reality TV HD
+#EXTINF:1,Penthouse Reality TV HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/5012/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Penthouse Reality TV FHD
+#EXTINF:1,Penthouse Reality TV FHD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/5013/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Extasy 4K
+#EXTINF:1,Extasy 4K
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/5014/index.m3u8
-#EXTINF:0 tvg-rec=\"3\",Eroxxx HD
+#EXTINF:1,Eroxxx HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/5015/index.m3u8
 #EXTINF:1,SexArt HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/6165/index.m3u8
@@ -288,11 +287,11 @@ http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/9344/index.m3u8
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/9346/index.m3u8
 #EXTINF:1,Shot TV 
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/9347/index.m3u8
-#EXTINF:0 tvg-rec=\"7\",Extasy TV HD
+#EXTINF:1,Extasy TV HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/11051/index.m3u8
-#EXTINF:0 tvg-rec=\"7\",KinoXXX
+#EXTINF:1,KinoXXX
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/11052/index.m3u8
-#EXTINF:0 tvg-rec=\"7\",ОХ-АХ HD
+#EXTINF:1,ОХ-АХ HD
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/11068/index.m3u8
 #EXTINF:1,VF Cartoon 18+
 http://zlakds.cbilant.com/iptv/75APUSFK39BBSMCCD3QXNNK9/11117/index.m3u8
